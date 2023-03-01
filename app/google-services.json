@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780777325517",
+    "project_id": "lostandfound-c4402",
+    "storage_bucket": "lostandfound-c4402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780777325517:android:d8c4e5bc692f289f93fa84",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780777325517-04bfpa8gabqu8a276nq82ibdfmd3qa49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8wZMxcRloM7UM92ADtZlzZgSULKPmi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780777325517-04bfpa8gabqu8a276nq82ibdfmd3qa49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

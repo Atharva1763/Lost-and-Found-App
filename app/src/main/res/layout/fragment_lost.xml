@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LostFragment">
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:text="Post for Lost Item" />
+
+    <!-- <Button
+        android:id="@+id/button5"
+        android:layout_width="227dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100dp"
+        android:layout_marginTop="350dp"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:text="Check Lost Items" /> -->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycyclerview1"
+        android:layout_width="410dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        tools:listitem="@layout/item_list" />
+
+
+</FrameLayout>
